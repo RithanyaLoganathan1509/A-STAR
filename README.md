@@ -224,9 +224,11 @@ aStarAlgo(start_node, goal_node)
 <h3>Output:</h3>
 
 <h6>Output 1:</h6>
+
 <img width="331" height="531" alt="image" src="https://github.com/user-attachments/assets/101b948f-f47a-4c77-9f21-8051357b4991" />
 
 <h6>Output 2:</h6>
+
 <img width="302" height="295" alt="image" src="https://github.com/user-attachments/assets/ea79ceb8-01c6-42c6-a6c8-ef572a5a5d5f" />
 
 <h3>Result: </h3>
